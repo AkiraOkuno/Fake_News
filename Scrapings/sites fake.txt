@@ -1,0 +1,27 @@
+- https://www.newsatual.com/
+Site fonte de notícias da página "Apoiamos a Operação Lava Jato"
+Aparentemente, é facilmente scrapavel
+Constantemente atualizado com novas notícias
+Atualmente tem 2525 notícias
+
+- http://www.imprensaviva.com/
+Site fonte de notícias da página Partido Anti-PT
+Aparentemente facilmente scrapavel
+Atualmente 5917 notícias
+
+- http://www.folhapolitica.org/
+Site Péssimo
+Notícias Parágrafo
+Checar fake
+
+- http://www.plantaobrasil.net/
+Muitas notícias
+Estrutura de texto ruim - parece que não é uma caixa de texto unica
+Checar frequência de fake
+Página facilmente loopavel
+
+- https://falandoverdades.com.br/
+Atualmente 5392 notícias
+Postagens mais antigas parece um pouco artigo de opiniao
+Checar frequência de fake
+

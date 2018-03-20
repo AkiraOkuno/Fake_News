@@ -1,0 +1,8 @@
+internacional,https://brasil.elpais.com/seccion/internacional
+politica,https://brasil.elpais.com/seccion/politica
+economia,https://brasil.elpais.com/seccion/economia
+ciencia,https://brasil.elpais.com/seccion/ciencia
+tecnologia,https://brasil.elpais.com/seccion/tecnologia
+cultura,https://brasil.elpais.com/seccion/cultura
+estilo,https://brasil.elpais.com/seccion/estilo
+esportes,https://brasil.elpais.com/seccion/deportes
